@@ -1,4 +1,4 @@
-country,region,happiness_score,gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption
+Country,Region,Happiness Score,GDP per Capita,Social Support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption
 Finland,Western Europe,7.632,1.305,1.592,0.874,0.681,0.202,0.393
 Norway,Western Europe,7.594,1.456,1.582,0.861,0.686,0.286,0.34
 Denmark,Western Europe,7.555,1.351,1.59,0.868,0.683,0.284,0.408
